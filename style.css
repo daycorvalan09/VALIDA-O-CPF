@@ -18,11 +18,11 @@
     border: outset;
     }
   
-    body{
-      display: flex;     
+    body{   
+        
       background: linear-gradient(to right,#acb6e5,#0ABFBC );
       padding: 10px;
-      margin: auto;    
+      margin: auto;   
                
     }
     
