@@ -19,6 +19,7 @@
     }
   
     body{
+      display: flex;     
       background: linear-gradient(to right,#acb6e5,#0ABFBC );
       padding: 10px;
       margin: auto;    
